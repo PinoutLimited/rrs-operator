@@ -15,7 +15,7 @@ Requirements:
 Installation:
 
 ```
-git clone https://github.com/PinoutLTD/rrs-operator.git
+git clone https://github.com/PinoutLimited/rrs-operator.git
 pip3 -r requirements.txt
 cp template.env .env
 ```
